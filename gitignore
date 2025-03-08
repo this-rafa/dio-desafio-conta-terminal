@@ -1,0 +1,16 @@
+# Ignorar arquivos de compilação
+/bin/
+/build/
+/target/
+
+# Ignorar arquivos de IDE (Visual Studio Code)
+.vscode/
+.json
+
+
+# Ignorar dependências (para projetos Node.js, por exemplo)
+node_modules/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
